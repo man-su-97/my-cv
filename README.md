@@ -1,2 +1,2 @@
 # my-cv
-My Resume
+My Resume is hosted here.
